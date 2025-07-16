@@ -14,6 +14,7 @@ Although currently a **proof-of-concept**, this system demonstrates the potentia
 [🔗 Click here to view the demo](https://drive.google.com/file/d/1_D1YMSbq7Xcq4Uswqty6oeSK3VbdtsqR/view?usp=sharing)
 
 ![Sample](data/pic2.png)
+![Evaluation Result](data/pic4.png)
 
 <summary>Description</summary>
 
