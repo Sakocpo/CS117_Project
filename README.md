@@ -19,25 +19,26 @@ Although currently a **proof-of-concept**, this system demonstrates the potentia
 
 - **[Gradio_Host](gradio_flame.py)** 
 
-Used to host an interactive web based for users to upload videos. Output a video stream with mask overlay. A table of is also shown as an demonstration of alerts being sent back in real-time (value are randomly generated for the sake of demo)
+  Used to host an interactive web based for users to upload videos. Output a video stream with mask overlay. A table of is also shown as an demonstration of alerts being sent back in real-time (value are randomly generated for the sake of demo)
 
 - **[Training Script](training_script.ipynb)**
 
-Contains the code needed to train model. All training configurations can also be found there.
+  Contains the code needed to train model. All training configurations can also be found there.
 
 - **[Evaluation](training_results.ipynb)**
 
-The trained model is then used to infer of a test set (10%) for further evaluations. Metrics concerning 4 different training methods can be found at the bottom.
+  The trained model is then used to infer of a test set (10%) for further evaluations. Metrics concerning 4 different training methods can be found at the bottom.
 
-- ** [Models List](trained_models/)
+- **[Models List](trained_models/)**
 
-Containing all of the checkpoint of trained model. Each name tells clearly which configurations were used.
+  Containing all of the checkpoint of trained model. Each name tells clearly which configurations were used.
 
 ## Usage
 
 1. **Launch the web app**
   ```python
   python gradio_flame.py
+  ```
 
 2. **Open** http://localhost in your browser
 3. **Upload** a video file to see results
