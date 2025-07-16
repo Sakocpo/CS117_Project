@@ -13,7 +13,7 @@ Although currently a **proof-of-concept**, this system demonstrates the potentia
 ## **Demo Video Link**  
 [🔗 Click here to view the demo](https://drive.google.com/file/d/1_D1YMSbq7Xcq4Uswqty6oeSK3VbdtsqR/view?usp=sharing)
 
-![Sample](data/pic3.png)
+![Sample](data/pic2.png)
 
 <summary>Description</summary>
 
